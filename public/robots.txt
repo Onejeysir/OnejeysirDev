@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Décommente après avoir configuré ton domaine :
+# Sitemap: https://VOTRE-DOMAINE/sitemap.xml
